@@ -249,7 +249,7 @@ class YouTubeDataAnalyzer:
 class TestYouTubeDataAnalyzer(unittest.TestCase):
     @classmethod
     def setUpClass(cls):
-        cls.api_key = 'AIzaSyC1BUBm8hmf1YZVdZON11kJOiLgl1mTsEw'
+        cls.api_key = '' # replace with your api key
         cls.analyzer = YouTubeDataAnalyzer(cls.api_key)
         cls.channel_name = "MrBeast"
 
@@ -304,7 +304,7 @@ class TestYouTubeDataAnalyzer(unittest.TestCase):
     
 if __name__ == "__main__":
     
-    API_KEY = "AIzaSyC1BUBm8hmf1YZVdZON11kJOiLgl1mTsEw"
+    API_KEY = "" #replace with your own api key
     CHANNEL_NAME = "MrBeast"
     MAX_RESULTS = 2000
 

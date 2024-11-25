@@ -21,6 +21,9 @@
 ### Correlation Analysis
 - The analysis explored correlations between thumbnail features (colors and contrast) and view counts, which could indicate potential relationships between visual elements and video popularity.
 
+## Data
+[Kaggle](https://www.kaggle.com/datasets/kelllychen/youtuber-data-mrbeast/data)
+
 ## Ethics Statement
 
 ### Privacy
@@ -30,7 +33,7 @@
 - My dataset may contain inherent biases, including selection bias from the chosen channels.
 
 ### Transparency
-- I are committed to transparency in our data collection and analysis methods, and I encourage scrutiny and replication of my findings.
+- I am committed to transparency in our data collection and analysis methods, and I encourage scrutiny and replication of my findings.
 
 ### Responsible Use
 - This dataset is intended for research and educational purposes only. I discourage any use that could lead to harassment, discrimination, or violation of YouTube's terms of service.
@@ -39,4 +42,4 @@
 - I acknowledge the limitations of our analysis, including potential inaccuracies in sentiment analysis and the subjective nature of visual feature interpretation.
 
 ##Open Source License
-### This project is licensed under the MIT License.
+### This project is licensed under the CC BY-NC-SA 4.0 License.

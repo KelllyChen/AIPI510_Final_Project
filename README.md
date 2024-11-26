@@ -19,7 +19,7 @@ The power analysis is conducted to determine the required sample size for detect
 ### Sentiment Analysis
 - Comments for selected videos were analyzed for sentiment by using TextBlob, categorizing them as positive, negative, or neutral.
 - This provides insights into audience reactions.
-![Sentiment Analysis](https://imgur.com/a/SPgAUSU)
+![Sentiment Analysis](https://i.imgur.com/3jE91Bq.png)
 
 ### Word Cloud Generation
 - A word cloud was created from video comments, visualizing frequently used terms.

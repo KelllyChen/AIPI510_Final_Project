@@ -25,7 +25,7 @@ The data used in this project is sourced from the YouTube API. It includes:
 ### Word Cloud Generation
 - A word cloud was created from video comments, visualizing frequently used terms.
 - This would reveal common themes or topics of discussion.
-[Sentiment Analysis](https://i.imgur.com/udt5dI9.png)
+![Sentiment Analysis](https://i.imgur.com/udt5dI9.png)
 
 ### Thumbnail Analysis
 - Dominant colors were extracted from video thumbnails, and contrast between colors was calculated.
@@ -33,7 +33,7 @@ The data used in this project is sourced from the YouTube API. It includes:
 ### Correlation Analysis
 - The analysis explored correlations between thumbnail features (colors and contrast) and view counts, which could indicate potential relationships between visual elements and video popularity.
 - This data can be used to explore potential correlations between thumbnail aesthetics and video performance.
-[Sentiment Analysis](https://i.imgur.com/7gfrF8V.png)
+![Sentiment Analysis](https://i.imgur.com/7gfrF8V.png)
 
 ## Link to Data
 [Kaggle](https://www.kaggle.com/datasets/kelllychen/youtuber-data-mrbeast/data)

@@ -12,7 +12,8 @@ The data used in this project is sourced from the YouTube API. It includes:
 - Thumbnails: Images associated with each video.
 
 ## Power Analysis
-The power analysis is conducted to determine the required sample size for detecting a medium effect size (d=0.5) with a significance level (α=0.5) and power (β=0.8) The calculated sample size ensures reliable statistical analysis.
+- The power analysis is conducted to determine the required sample size for detecting a medium effect size (d=0.5) with a significance level (α=0.5) and power (β=0.8) The calculated sample size ensures reliable statistical analysis.
+- The calculated sample size is 64.
 
 ## Exploratory Data Analysis (EDA)
 
@@ -24,6 +25,7 @@ The power analysis is conducted to determine the required sample size for detect
 ### Word Cloud Generation
 - A word cloud was created from video comments, visualizing frequently used terms.
 - This would reveal common themes or topics of discussion.
+[Sentiment Analysis](https://i.imgur.com/udt5dI9.png)
 
 ### Thumbnail Analysis
 - Dominant colors were extracted from video thumbnails, and contrast between colors was calculated.
@@ -31,6 +33,7 @@ The power analysis is conducted to determine the required sample size for detect
 ### Correlation Analysis
 - The analysis explored correlations between thumbnail features (colors and contrast) and view counts, which could indicate potential relationships between visual elements and video popularity.
 - This data can be used to explore potential correlations between thumbnail aesthetics and video performance.
+[Sentiment Analysis](https://i.imgur.com/7gfrF8V.png)
 
 ## Link to Data
 [Kaggle](https://www.kaggle.com/datasets/kelllychen/youtuber-data-mrbeast/data)

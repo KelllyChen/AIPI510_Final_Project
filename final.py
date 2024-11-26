@@ -25,7 +25,7 @@ class YouTubeDataAnalyzer:
     # Power analysis
     def power_analysis(self):
         # Set parameters
-        effect_size = 0.5  # Medium effect size for correlation
+        effect_size = 0.5  # Moderate effect size (Cohen's d)
         alpha = 0.05  # Significance level
         power = 0.8  # Desired power
 
